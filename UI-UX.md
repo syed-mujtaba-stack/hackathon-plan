@@ -119,3 +119,12 @@ responsive, accessible (WCAG 2.1 AA).
 - Pre-filled demo accounts (Company, Freelancer, Client, Admin) for instant switching.
 - One-click "Admin approve" to fast-forward KYC during the pitch.
 - Smooth dark/light transition as a visual hook.
+
+---
+
+## Navigation
+
+- **Previous:** [API Documentation.md](./API%20Documentation.md) (endpoints this UI calls).
+- **Next read:** [Security.md](./Security.md) — security requirements the UI must respect.
+- **Build it:** [Module-wise Tasks.md](./Module-wise%20Tasks.md) (UI items under each module).
+- **Master map:** [INDEX.md](./INDEX.md).
