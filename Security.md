@@ -115,3 +115,12 @@
 - [ ] Rate limit returns 429 with headers.
 - [ ] CSP/headers present; no secrets in logs.
 - [ ] Dependency + secret scan clean.
+
+---
+
+## Navigation
+
+- **Previous:** [UI-UX.md](./UI-UX.md) (interface this secures).
+- **Backed by:** [RESEARCH.md](./RESEARCH.md) §3,§6,§7,§8 (the "why").
+- **Enforced in:** [Development Rules.md](./Development%20Rules.md) (§5 security musts).
+- **Master map:** [INDEX.md](./INDEX.md).
