@@ -69,3 +69,12 @@
 - Scope creep → protect hackathon demo scope; phase gates.
 - Security regressions → security tests are CI gates, not optional.
 - Hiring/velocity → monorepo + contract typing keeps onboarding fast.
+
+---
+
+## Navigation
+
+- **Previous:** [Development Rules.md](./Development%20Rules.md) (how we build).
+- **Next read:** [Sprint Planning.md](./Sprint%20Planning.md) — turn this roadmap into sprints.
+- **Backlog:** [Module-wise Tasks.md](./Module-wise%20Tasks.md).
+- **Master map:** [INDEX.md](./INDEX.md).
