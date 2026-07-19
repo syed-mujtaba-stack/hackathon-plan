@@ -331,3 +331,13 @@ this?" feedback; clarity of problem→solution narrative.
 ```
 
 > Keep `README.md` (PRD) and this `PLANNING.md` in sync.
+
+---
+
+## Navigation
+
+- **Previous:** [README.md](./README.md) (PRD / what is the product).
+- **Next read:** [RESEARCH.md](./RESEARCH.md) — the deep technical "why" behind this plan.
+- **Then:** [Architecture.md](./Architecture.md) → [Database Design.md](./Database%20Design.md) → [API Documentation.md](./API%20Documentation.md).
+- **Track progress:** [Roadmap.md](./Roadmap.md) · [Sprint Planning.md](./Sprint%20Planning.md) · [Module-wise Tasks.md](./Module-wise%20Tasks.md).
+- **Master map:** [INDEX.md](./INDEX.md).
