@@ -239,7 +239,7 @@ APIs (API10)**; BOLA (API1) remains #1. Key defenses:
   on merge to main: build → push image → **run the migration task BEFORE the rolling
   deploy** (zero-downtime; new code must never hit an un-migrated schema) → deploy.
   Remote caching (Turborepo), conventional commits + commitlint.
-- **Secrets:** never plaintext env. **AWS Secrets Manager / Doppler / Vercel+Render
+- **Secrets:** never plaintext env. **AWS Secrets Manager / Doppler / Vercel+Rnder
   encrypted env**. CI uses **OIDC** (no long-lived keys). Rotate JWT keys via JWKS;
   KMS for field encryption; least-privilege IAM. Scan deps (Snyk/Dependabot) in CI.
 
@@ -277,3 +277,13 @@ KYC with encrypted quarantine storage, Socket.IO on a sharded Redis adapter, pre
 S3/R2 with malware scanning, CASL RBAC with tenant-aware IDOR protection, and a WAF +
 CSP + rate-limit + CI/OIDC security posture — deployed as a Turborepo monorepo on
 Vercel + Render/Fly + Neon.
+
+---
+
+## Navigation
+
+- **Previous:** [PLANNING.md](./PLANNING.md) (the two-track plan this research supports).
+- **Next read:** [Architecture.md](./Architecture.md) — how the system is structured.
+- **Then:** [Database Design.md](./Database%20Design.md) → [API Documentation.md](./API%20Documentation.md) → [UI-UX.md](./UI-UX.md).
+- **Security detail:** [Security.md](./Security.md).
+- **Master map:** [INDEX.md](./INDEX.md).
