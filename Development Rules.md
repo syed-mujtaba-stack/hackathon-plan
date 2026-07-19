@@ -95,3 +95,11 @@
 - [ ] Docs updated
 - [ ] No new secrets; CI green
 - [ ] Demoed (for hackathon) or verified in staging
+
+---
+
+## Navigation
+
+- **Previous:** [Security.md](./Security.md) (what we must enforce).
+- **Plan the work:** [Roadmap.md](./Roadmap.md) → [Sprint Planning.md](./Sprint%20Planning.md) → [Module-wise Tasks.md](./Module-wise%20Tasks.md).
+- **Start here if new:** [INDEX.md](./INDEX.md).
