@@ -132,3 +132,12 @@ never drift.
 - Neon compute autoscaling; read replicas for analytics.
 - Hash-partition large tables on `workspaceId`.
 - CDN (CloudFront) in front of static assets and signed downloads.
+
+---
+
+## Navigation
+
+- **Previous:** [RESEARCH.md](./RESEARCH.md) (the "why" behind this design).
+- **Next read:** [Database Design.md](./Database%20Design.md) — tables, tenant isolation, RLS.
+- **Then:** [API Documentation.md](./API%20Documentation.md) → [UI-UX.md](./UI-UX.md).
+- **Rules:** [Development Rules.md](./Development%20Rules.md). Master map: [INDEX.md](./INDEX.md).
