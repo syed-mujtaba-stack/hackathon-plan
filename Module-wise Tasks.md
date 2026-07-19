@@ -99,3 +99,12 @@
 7. Admin → 8. Activity → 9. Security/Infra (parallel from Phase 1).
 
 Hackathon path: 1 → 2(stub) → 3 → 4 → 5(local) → 6 → 7(stub) → 8(basic).
+
+---
+
+## Navigation
+
+- **Previous:** [Sprint Planning.md](./Sprint%20Planning.md) (how we schedule this work).
+- **Reference while building:** [Architecture.md](./Architecture.md) · [API Documentation.md](./API%20Documentation.md) · [Database Design.md](./Database%20Design.md) · [UI-UX.md](./UI-UX.md).
+- **Security gate:** [Security.md](./Security.md) (every module must pass §11 checklist).
+- **Master map:** [INDEX.md](./INDEX.md).
