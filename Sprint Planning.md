@@ -73,3 +73,12 @@ Links: API doc, design
 
 Code reviewed, tests green (incl. security), docs updated, CI clean, demoed in
 staging, no new secrets.
+
+---
+
+## Navigation
+
+- **Previous:** [Roadmap.md](./Roadmap.md) (the phases this sprinting serves).
+- **Next read:** [Module-wise Tasks.md](./Module-wise%20Tasks.md) — the actual backlog to pull into sprints.
+- **Rules:** [Development Rules.md](./Development%20Rules.md).
+- **Master map:** [INDEX.md](./INDEX.md).
