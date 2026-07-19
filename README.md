@@ -213,3 +213,11 @@ SoftwPortal aims to become the operating system for secure business collaboratio
 one verified workspace replacing fragmented communication, document sharing, project
 management, and client onboarding tools. It is the flagship collaboration product
 within the SoftwDocs ecosystem.
+
+---
+
+## Navigation
+
+- **Next read:** [PLANNING.md](./PLANNING.md) — how we build it (hackathon + startup tracks).
+- **Deep dive:** [RESEARCH.md](./RESEARCH.md) — technical research behind decisions.
+- **Lost?** Start from [INDEX.md](./INDEX.md) (master map by role).
