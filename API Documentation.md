@@ -184,3 +184,12 @@ Super Admin only. Reports + analytics.
 | Others | 100 / min per user |
 
 Returns `429` + `Retry-After` + `X-RateLimit-*`.
+
+---
+
+## Navigation
+
+- **Previous:** [Database Design.md](./Database%20Design.md) (data model this API serves).
+- **Next read:** [UI-UX.md](./UI-UX.md) — how the interface consumes these endpoints.
+- **Security of endpoints:** [Security.md](./Security.md) (auth, RBAC, rate limits).
+- **Master map:** [INDEX.md](./INDEX.md).
