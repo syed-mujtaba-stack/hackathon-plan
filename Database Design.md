@@ -109,7 +109,7 @@ User 1—N Notification
 | projectId | UUID FK → Project | |
 | title | text | |
 | dueDate | date | |
-| status | enum | PENDING, APPROVED |
+| status | enum | PENDING, APPROVED | 
 
 ### Document
 | Column | Type | Notes |
@@ -204,3 +204,12 @@ SECURITY` so superuser cannot mask a missing filter.
 - Never rename columns in place; use additive + backfill + drop.
 - Seed: one Super Admin, sample workspace for demos.
 - Backups: Neon PITR; per-tenant export possible via `workspaceId` filter.
+
+---
+
+## Navigation
+
+- **Previous:** [Architecture.md](./Architecture.md) (system design).
+- **Next read:** [API Documentation.md](./API%20Documentation.md) — how clients use this data.
+- **Security of data:** [Security.md](./Security.md) (§4 tenant, §6 files).
+- **Master map:** [INDEX.md](./INDEX.md).
